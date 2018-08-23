@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocFlow", "DocFlow\DocFlow.csproj", "{BB1160FF-4954-4B3C-B62E-9D803C1DF4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1160FF-4954-4B3C-B62E-9D803C1DF4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1160FF-4954-4B3C-B62E-9D803C1DF4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1160FF-4954-4B3C-B62E-9D803C1DF4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1160FF-4954-4B3C-B62E-9D803C1DF4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12F10C9-0359-483D-9CA3-047558E66D69}
+	EndGlobalSection
+EndGlobal
